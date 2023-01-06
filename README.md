@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+My name is Dhanush Mule and I am an undergraduate student at the University of Texas at Dallas. 
+
 <!--
 **dhanushm360/dhanushm360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
